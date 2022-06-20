@@ -1,0 +1,1 @@
+https://aws.amazon.com/blogs/developer/creating-amazon-cloudfront-signed-urls-in-node-js/
