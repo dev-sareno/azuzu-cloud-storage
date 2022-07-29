@@ -6,6 +6,9 @@ I built this personal project to practically exercise my knowledge in AWS after 
 ![AWS Developer](images/developer.png)
 ![AWS Solution Architect](images/solution-architect.png)
 ![AWS Cloud Practitioner](images/cloud-practitioner.png)
+1. [AWS Certified Developer](https://www.credly.com/badges/2d54fca2-63b0-4fbf-9241-03b4aeb42b41/public_url)
+2. [AWS Certified Solutions Architect](https://www.credly.com/badges/57841524-7f5e-4e64-b6eb-3454c69b2592/public_url)
+3. [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a5c4fb43-f22c-40c3-b1aa-941ef58f4eb3/public_url)
 
 ## About the Project
 1. Static website is hosted using S3 and Cloudfront
