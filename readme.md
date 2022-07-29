@@ -7,7 +7,7 @@ I built this personal project to practically exercise my knowledge in AWS after 
 ![AWS Solution Architect](images/solution-architect.png)
 ![AWS Cloud Practitioner](images/cloud-practitioner.png)
 
-## Facts
+## About the Project
 1. Static website is hosted using S3 and Cloudfront
 1. Objects are stored to AWS S3
 1. Uses AWS Cloudfront as CDN/Caching
