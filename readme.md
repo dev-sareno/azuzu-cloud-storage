@@ -1,5 +1,5 @@
 # Azuzu Cloud Storage
-A simple file storage
+A simple file storage built with ReactJS and AWS services. Pure serverless!
 
 ## Facts
 1. Static website is hosted using S3 and Cloudfront
