@@ -1,4 +1,5 @@
 # Azuzu Cloud Storage
+A simple file storage
 
 ## Facts
 1. Static website is hosted using S3 and Cloudfront
