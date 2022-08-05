@@ -12,14 +12,14 @@ I built this personal project to practically exercise my knowledge in AWS after 
 
 ## About the Project
 1. Static website is hosted using S3 and Cloudfront
-1. Objects are stored to AWS S3
+1. Objects are stored in AWS S3
 1. Uses AWS Cloudfront as CDN/Caching
 1. Uses AWS Certificate Manager for SSL
 1. Uses DynamoDB as database
-1. Uses S3 Event to trigger an Lambda function that will write data to DynamoDB table
+1. Uses S3 Event to trigger a Lambda function that writes data to DynamoDB table
 1. Uses AWS Lambda for creating Cloudfront Signed URL
 1. Uses AWS Cognito User and Identity Pool for user authentication
-1. Domain is hosted in Namecheap
+1. Domain name is hosted in Namecheap
 
 ## Screens
 ![screen 01](images/ss01.png)
